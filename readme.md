@@ -4,7 +4,7 @@ This repository contains scripts for downloading depth estimation datasets, incl
 
 ## Project Overview
 
-This script was developed by [**Mohammed Chaouki ZIARA**](https://chaouki.pro?utm_source=GitHub&utm_medium=LidarDatabox) as part of his Ph.D. research at the [**RCAM Laboratory**](https://www.univ-sba.dz/rcam/index.php), 
+This script was developed by [**Mohammed Chaouki ZIARA**](mailto:medchaoukiziara@gmail.com) as part of his Ph.D. research at the [**RCAM Laboratory**](https://www.univ-sba.dz/rcam/index.php), 
 Djilali Liabes University - Algeria. 
 
 The tool is specifically designed for use in depth estimation tasks, accelerating dataset acquisition for training and testing models in this field.
